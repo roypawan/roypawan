@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Pawan Kumar  
 
-<!--
-**roypawan/roypawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Data Engineer** with **5+ years of experience** in building **cloud-based data warehouses**, **ETL/ELT pipelines**, and **automation frameworks** using **Snowflake, Azure, SQL, and PySpark**.
 
-Here are some ideas to get you started:
+🚀 Proven expertise in **large-scale data migrations** from **Teradata to Snowflake & Azure**, implementing **SCD / CDC frameworks**, and optimizing pipelines for **performance, scalability, and cost efficiency**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Hands-on experience with **modern data architectures**, including **Delta Lake**, **Star & Snowflake schemas**, and **metadata-driven frameworks** for enterprise-grade data integration.
+
+⚙️ Strong working knowledge of **Informatica PowerCenter**, **Snowpipe**, **Azure Data Factory (ADF)**, and **Control-M**, with a focus on **automation**, **schema drift handling**, **data quality checks**, and **alerting mechanisms**.
+
+🧩 Delivered robust and reliable data solutions across **financial and telecom domains**, working with clients such as **Northern Trust Bank**, **T-Mobile**, and **PepsiCo**.
+
+🎓 **Certifications & Education**
+- ❄️ SnowPro Associate – Platform Certification (Snowflake)  
+- ❄️ SnowPro Core Certification (Snowflake)  
+- ☁️ Microsoft Azure Data Fundamentals (DP-900)  
+- 🎓 B.E. in Computer Science  
+
+📌 **Interests**: Cloud Data Engineering, Data Modeling, Performance Optimization, and Scalable Data Platforms
